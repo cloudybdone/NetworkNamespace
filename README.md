@@ -9,6 +9,8 @@ This guide explains how to connect a network namespace (ns) to the host using a 
 2. `iproute2` tools installed on the system.
 
 ---
+![Alt Text](https://github.com/cloudybdone/NetworkNamespace/blob/main/pic1.png)
+
 
 ## Steps
 
