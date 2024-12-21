@@ -110,6 +110,3 @@ This setup is useful for network simulations, container-like environments, and t
 
 ---
 
-## References
-- [iproute2 Documentation](https://man7.org/linux/man-pages/man8/ip.8.html)
-- [Linux Network Namespaces](https://wiki.archlinux.org/title/Network_namespace)
