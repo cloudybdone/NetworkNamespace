@@ -69,6 +69,7 @@ sudo ip link set veth-host up
 ```
 
 ---
+![Alt Text](https://github.com/cloudybdone/NetworkNamespace/blob/main/pic3.png)
 
 ### 5. Add a Route on the Host
 
