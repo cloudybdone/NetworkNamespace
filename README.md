@@ -22,6 +22,7 @@ sudo ip netns add red
 sudo ip netns list
 ```
 ![Alt Text](https://github.com/cloudybdone/NetworkNamespace/blob/main/pic2.png)
+
 This creates a new namespace called `red`.
 
 ---
